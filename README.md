@@ -1,3 +1,4 @@
-# if1_modules
+# Summative 1
 
-some code examples showing modules
+This is a python user manual for a simple random number equation code.
+
